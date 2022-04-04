@@ -1,0 +1,18 @@
+
+body{
+    font-family:Helvetica;
+}
+
+ h1 {
+
+     color:brown;
+ }
+
+ img {
+     width: 250px;
+ }
+ 
+ #sobre{
+     color: black;
+     text-align: justify;
+ }
